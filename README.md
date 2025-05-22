@@ -3,6 +3,8 @@
 
 ### Register No: 212222240062
 
+### NAME : MARELLA DHARANESH
+
 ## Aim: 
 To Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 ## Algorithm: 
