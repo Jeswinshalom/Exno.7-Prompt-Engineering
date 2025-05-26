@@ -1,23 +1,20 @@
 # Exno.7-Prompt-Engineering
 
+**Register No:** 212223060106
 
-### Register No: 212222240062
-
-### NAME : MARELLA DHARANESH
+**NAME :** Jeswin Shalom S
 
 ## Aim: 
 To Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 ## Algorithm: 
 Develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
-![image](https://github.com/user-attachments/assets/8813c09b-e51f-44ee-9706-8b46465cad4b)
 
 
 ### 1. Define the Scenario and Use Case
 #### Scenario:
 A student or professional wants a lightweight, personalized digital assistant powered by ChatGPT to manage daily activities, from to-do lists to time-blocking and prioritization.
 
-![image](https://github.com/user-attachments/assets/43ffe17b-3c86-4f6c-b717-c9afad27dc68)
 
 
 #### Target User: 
@@ -178,7 +175,6 @@ Add calendar syncing (Google/Outlook)
 Implement voice assistant module (e.g., Whisper + ChatGPT)
 
 Daily goal tracking with gamification
-![image](https://github.com/user-attachments/assets/9c3a7282-8810-4946-890f-65455b2c417f)
 
 
 ## Result: 
